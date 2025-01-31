@@ -47,6 +47,7 @@ Time invested learning those tools will be rewarded given some time, patience an
 - [Official Webstie](https://leafletjs.com/)
 - [Official Quick Start](https://leafletjs.com/examples/quick-start/) and a different [Unofficial Quick Start](https://www.tutorialspoint.com/leafletjs/leafletjs_getting_started.htm)
 - [Tutorials / Examples](https://leafletjs.com/examples.html)
+- [Creating side-by-side maps with a slider](https://lab.digital-democracy.org/code/leaflet-side-by-side/)
 - [API Reference](https://leafletjs.com/reference.html)
 - [GitHub Repo](https://github.com/Leaflet/Leaflet)
 
